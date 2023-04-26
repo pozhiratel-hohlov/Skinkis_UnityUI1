@@ -46,8 +46,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Skript\AinuParsledzejs.cs" />
      <Compile Include="Assets\Skript\AtteluParadisana.cs" />
+     <Compile Include="Assets\Skript\KursorsUzAttela.cs" />
      <Compile Include="Assets\Skript\ObjectuParvietosana.cs" />
+     <Compile Include="Assets\Skript\azaza.cs" />
+     <Compile Include="Assets\Skript\timyyyyyyyyyyyyyy.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
