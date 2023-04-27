@@ -47,9 +47,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Skript\AinuParsledzejs.cs" />
+     <Compile Include="Assets\Skript\AlexParadisana.cs" />
+     <Compile Include="Assets\Skript\AlexScream.cs" />
      <Compile Include="Assets\Skript\AtteluParadisana.cs" />
      <Compile Include="Assets\Skript\KursorsUzAttela.cs" />
      <Compile Include="Assets\Skript\ObjectuParvietosana.cs" />
+     <Compile Include="Assets\Skript\VarduParadisana.cs" />
      <Compile Include="Assets\Skript\azaza.cs" />
      <Compile Include="Assets\Skript\timyyyyyyyyyyyyyy.cs" />
  <Reference Include="UnityEngine.UI">
