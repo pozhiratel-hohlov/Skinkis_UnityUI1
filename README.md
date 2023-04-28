@@ -7,4 +7,4 @@
 - [x] Pievienots sākumekrāns
 - [x] Pievienotās skaņas
 - [x] konvertēts uz .exe formātu
-- [ ] beigt darbu
+- [x] beigt darbu
